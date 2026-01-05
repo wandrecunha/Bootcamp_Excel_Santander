@@ -9,6 +9,8 @@ A planilha foca na experiência do usuário (UX), utilizando validações de dad
 Funcionalidades e Telas
 O projeto é dividido em três módulos principais de entrada de dados:
 
+---
+
 1. Dados do Titular (Identificação)
 Nesta tela, o usuário preenche suas informações básicas com máscaras de entrada automáticas.
 
@@ -22,6 +24,8 @@ Validação de Dados: Menus suspensos (Sim/Não) para alterações cadastrais e 
 
 UX: Alinhamento estratégico de rótulos e campos para facilitar a leitura.
 
+---
+
 2. Informes de Rendimentos Bancários
 Espaço dedicado para consolidar saldos e instituições financeiras.
 
@@ -33,6 +37,8 @@ Mensagens de Erro: Alertas personalizados para garantir que apenas bancos da lis
 
 Cálculos Automáticos: Soma total de valores formatada em Moeda ($).
 
+---
+
 3. Notas de Entrada (Receita)
 Registro detalhado de entradas mensais para controle de fluxo de caixa.
 
@@ -43,6 +49,8 @@ Formatação de Data: Uso do formato personalizado MMMM-AA (ex: Janeiro-26).
 Categorização: Validação para tipos de entrada (Holerite, Freelancer, CNPJ), Honorários.
 
 Atalhos: Implementação do uso de CTRL + ; para agilizar a inserção de datas.
+
+---
 
 Diferenciais do Projeto
 Navegação Dinâmica: Criação de botões "Próximo" e "Anterior" utilizando formas e hiperlinks para transição entre abas.
@@ -65,5 +73,7 @@ Fórmulas Matemáticas (SOMA).
 Design de Interface (UI) no Excel (Uso de bordas, alinhamentos e painel de seleção).
 
 Segurança de Dados (Proteção de planilhas e bloqueio de células).
+
+---
 
 Desenvolvido por Wandré Cunha.
