@@ -15,24 +15,12 @@ Para garantir a organização e escalabilidade do projeto, utilizei o método **
 
 
 * **B - Bases:** Dados brutos contendo o histórico de vendas, tipos de planos e recorrência de pagamentos.
+
 * **C - Cálculos:** Camada intermediária onde os dados foram limpos e processados através de **Tabelas Dinâmicas** e fórmulas.
+
 * **D - Dashboard:** Painel visual interativo com gráficos e segmentadores de dados.
+
 * **E - Extras:** Documentação e materiais de apoio utilizados no estudo.
-
----
-
-## 📈 Respostas ao Negócio (KPIs)
-
-Com base na análise realizada na planilha de **Cálculos**, chegamos aos seguintes resultados:
-
-| Indicador / Pergunta de Negócio | Valor Resultante |
-| --- | --- |
-| **Faturamento Total (Planos Anuais)** | **R$ 7.633,00** |
-| **Faturamento Anual (Com Renovação Automática)** | **R$ 3.786,00** |
-| **Faturamento Anual (Sem Renovação Automática)** | **R$ 3.847,00** |
-| **Total de Vendas Assinatura EA Play** | **R$ 2.940,00** |
-| **Total de Vendas Assinatura Minecraft** | **R$ 3.880,00** |
-| **Quantidade Total de Clientes Atendidos** | **295 Clientes** |
 
 ---
 
